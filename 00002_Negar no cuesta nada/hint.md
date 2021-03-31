@@ -1,0 +1,1 @@
+Tanto `es_mayor_de_edad` como `es_menor_de_edad` reciben una edad como argumento. :wink:

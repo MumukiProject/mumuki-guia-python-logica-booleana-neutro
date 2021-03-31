@@ -1,0 +1,1 @@
+Como podrás ver, sólo `es_peripatetica("filosofía", "Grecia", 5)` es verdadera porque cumple las tres condiciones, o dicho de otra forma, todas sos proposiciones son verdaderas. :nerd:

@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresFunction:es_mayor_de_edad
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresFunction:es_menor_de_edad
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: es_menor_de_edad
+  inspection: Uses:es_mayor_de_edad

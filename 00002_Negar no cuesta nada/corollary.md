@@ -1,0 +1,1 @@
+Cada una de las funciones representa **un estado de dos posibles**: ser mayor o ser menor de edad. No se puede ser ambos al mismo tiempo y tampoco se puede evitar pertenecer a alguno de los dos grupos y por eso decimos que son complementarios y que juntos forman el _conjunto universal_. :milky_way:
