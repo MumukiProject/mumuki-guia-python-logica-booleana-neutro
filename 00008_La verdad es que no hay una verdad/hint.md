@@ -1,4 +1,4 @@
-Recordá que en la familia Buendía:
+Recuerda que en la familia Buendía:
 
 * Arcadio es hijo de José Arcadio y de Pilar Ternera,
 * Aureliano José es hijo del Coronel Aureliano y Pilar Ternera,

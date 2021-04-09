@@ -1,4 +1,4 @@
-Ahora pensemos cómo sería la tabla de verdad que representa el comportamiento de la función que acabás de hacer.
+Ahora pensemos cómo sería la tabla de verdad que representa el comportamiento de la función que acabas de hacer.
 
 Las proposiciones serán `tienen_la_misma_madre` y `tienen_el_mismo_padre`, y los valores de verdad que porten dependerán de qué dos personas estén evaluando.
 
@@ -32,7 +32,7 @@ El booleano final resultará de operarlas mediante `son_medio_hermanos`:
   </tr>
 </table>
 
-> Probá tu función `son_medio_hermanos` con los siguientes valores y comprobá si se comporta como la tabla:
+> Prueba tu función `son_medio_hermanos` con los siguientes valores y comprueba si se comporta como la tabla:
 >
 ```python
 ム son_medio_hermanos(aureliano_segundo, remedios)
