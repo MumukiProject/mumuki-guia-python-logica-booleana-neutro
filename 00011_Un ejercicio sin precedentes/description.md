@@ -1,8 +1,8 @@
-Ya comprobaste que la operación con mayor precedencia es la negación, seguida de la conjunción y la disyunción pero ¿qué pasa si quiero alterar el orden en que se resuelven? :thought_balloon:
+Has comprobado que la operación con mayor precedencia es la negación, seguida de la conjunción y la disyunción, pero ¿qué pasa si quiero alterar el orden en que se resuelven? :thought_balloon:
 
 Al igual que en matemática, podemos usar paréntesis para agrupar las operaciones que queremos que se realicen primero.
 
-> Definí la función `puede_jubilarse` que recibe la edad y el sexo de una persona, además de los años de aportes jubilatorios que posee:
+> Define la función `puede_jubilarse` que recibe la edad y el sexo de una persona, además de los años de aportes jubilatorios que posee:
 
 > ```python
 > ム puede_jubilarse(62, 'F', 34)
