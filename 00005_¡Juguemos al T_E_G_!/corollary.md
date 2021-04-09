@@ -1,4 +1,4 @@
-Vamos a ver como sería la tabla de verdad de la disyunción para compararla con la tuya:
+Veamos cómo sería la tabla de verdad de la disyunción para compararla con la tuya:
 
 <table class="table table-striped table-bordered table-condensed text-center">
   <tr>

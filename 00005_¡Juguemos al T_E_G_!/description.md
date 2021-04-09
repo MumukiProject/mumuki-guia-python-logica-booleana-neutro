@@ -1,6 +1,6 @@
-¿Y si basta con que una de varias condiciones se cumpla para afirmar que una expresión es verdadera? Podemos utilizar otro de los operadores que ya conocés, ¡la disyunción lógica `or`! :bulb:
+¿Y si basta con que una de varias condiciones se cumpla para afirmar que una expresión es verdadera? Podemos utilizar otro de los operadores que ya conoces, ¡la disyunción lógica `or`! :bulb:
 
-En el famoso juego T.E.G., un jugador puede ganar de dos formas: cumpliendo su objetivo secreto o alcanzando el objetivo general de conquistar 30 países:
+En el juego T.E.G., un jugador puede ganar de dos formas: cumpliendo su objetivo secreto o alcanzando el objetivo general de conquistar 30 países:
 
 ```python
 def gano(cumplio_objetivo_secreto, cantidad_de_paises_conquistados):
@@ -8,7 +8,7 @@ def gano(cumplio_objetivo_secreto, cantidad_de_paises_conquistados):
 
 ```
 
-> Probá en la consola las siguientes expresiones:
+> Prueba en la consola las siguientes expresiones:
 >
 ``` python
 ム gano(True, 25)
@@ -17,4 +17,4 @@ def gano(cumplio_objetivo_secreto, cantidad_de_paises_conquistados):
 ム gano(True, 31)
 ```
 
-> ¿Te animás a construir la tabla de verdad de la disyunción lógica?
+> ¿Te animas a construir la tabla de verdad de la disyunción lógica?
