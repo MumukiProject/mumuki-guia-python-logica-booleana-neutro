@@ -1,4 +1,4 @@
-¿Descifraste la precedencia de las operaciones booleanas? :thinking: Por las dudas acá tenemos un cuadro con la precedencia de ellas y de algunas operaciones que vimos (y otras que no):
+¿Descifraste la precedencia de las operaciones booleanas? :thinking: Por las dudas aquí tenemos un cuadro con la precedencia de ellas y de algunas operaciones que hemos visto (y otras que no):
 
 
 <table class="table table-striped table-bordered table-condensed text-center">

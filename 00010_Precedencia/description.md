@@ -15,7 +15,7 @@ def paga_con_tarjeta(se_cobra_interes, tarjeta, efectivo_disponible):
   return not se_cobra_interes and cuotas(tarjeta) >= 3 or efectivo_disponible < 100
 ```
 
-> Intentá descubrir cuál es la precedencia de las operaciones booleanas. Te damos unos ejemplos de pruebas...
+> Intenta descubrir cuál es la precedencia de las operaciones booleanas. Te damos unos ejemplos de pruebas...
 >
 ``` python
 ム paga_con_tarjeta(True, "visa", 320)
@@ -23,6 +23,6 @@ def paga_con_tarjeta(se_cobra_interes, tarjeta, efectivo_disponible):
 ム paga_con_tarjeta(True, "mastercard", 215)
 ム paga_con_tarjeta(True, "mastercard", 32)
 ```
-> ... pero podés probar con los que vos quieras. 
+> ... pero puedes probar con los que tu quieras. 
 
-> Cuando termines, escribí `listo()`.
+> Cuando termines, escribe `listo()`.
